@@ -3,7 +3,7 @@ Mod of flux_lora_extract python script from Kohya_FLUX_v30's repo.  Compares two
 
 Designed for cmd line use within kohya_flux_v30. Runs inside or outside of venv. May also work on flux checkpoints. 
 
-Install amd Use: 
+Install and Use: 
 
 1. Drop script in Kohya_FLUX_DreamBooth_LoRA_v30\kohya_ss\sd-scripts\networks
 2. Open cmd and use -h flag for help with command usage or follow example below 
